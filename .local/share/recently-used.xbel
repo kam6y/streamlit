@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///Users/goodapple/Downloads/27966.jpg" added="2023-08-24T14:03:08.938260Z" modified="2023-08-24T14:03:08.938263Z" visited="2023-08-24T14:03:08.938261Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-24T14:03:08.938262Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/goodapple/workspace/hackathon_moshacode/assets/img/28069.jpg" added="2023-08-26T14:18:19.359378Z" modified="2023-08-26T14:18:19.359380Z" visited="2023-08-26T14:18:19.359378Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-26T14:18:19.359379Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/goodapple/Downloads/S__6250498.jpg" added="2023-09-17T04:42:34.067123Z" modified="2023-09-17T04:43:14.249074Z" visited="2023-09-17T04:42:34.067123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-09-17T04:43:14.249073Z" count="3"/>
+          <bookmark:application name="GIMP (GNU Image Manipulation Program)" exec="&apos;gimp %u&apos;" modified="2023-09-17T04:43:01.293658Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

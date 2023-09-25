@@ -1,0 +1,13 @@
+{
+  "paths": [
+    {
+      "_path": "bin/micromamba",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/micromamba_1684231759195/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+      "sha256": "ed53effa7d19646d680b5c4b58d875b183ecc461ff239355bfe9882c4fff98b9",
+      "size_in_bytes": 12438064
+    }
+  ],
+  "paths_version": 1
+}
